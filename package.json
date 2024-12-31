@@ -28,8 +28,8 @@
     "dayjs": "^1.11.13"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
+    "react": "18.1.0",
+    "react-native": "0.70.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.9",
